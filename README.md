@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate programmer from New York City</h3>
 
 - 🔭 I’m currently working on **a hybrid CPU-GPU order book**
 
